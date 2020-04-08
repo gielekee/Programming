@@ -1,1 +1,1 @@
-Binnen deze repository zijn een aantal producten te zien die ik gemaakt heb.
+Een python script die een aantal stukjes informatie laat zien van het gebruikerssysteem.
