@@ -1,1 +1,3 @@
-Binnen deze repository zijn een aantal producten te zien die ik gemaakt heb.
+Dit is een powershell script.
+Dit script laat verschillende dingen zien en monitort deze elke seconde.
+Zoals CPU Usage / RAM voor een voorbeeld zie "voorbeeld.png"
